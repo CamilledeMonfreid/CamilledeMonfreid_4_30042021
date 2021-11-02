@@ -12,8 +12,8 @@ Voici les points sur lesquels tu devras travailler :
 ➡️ Le repo git du site
 
 ## Livrables (hors site amélioré)
-➡️ Le rapport d’analyse SEO du site dans lequel on identifie clairement 10 recommandations SEO/Accessibilité sélectionnées
-➡️ Un rapport d’optimisation comprenant une comparaison des résultats (y compris de la vitesse de chargement et l’accessibilité)
+➡️ Le rapport d’analyse SEO du site dans lequel on identifie clairement 10 recommandations SEO/Accessibilité sélectionnées  
+➡️ Un rapport d’optimisation comprenant une comparaison des résultats (y compris de la vitesse de chargement et l’accessibilité)  
 
 ## Compétences acquises 
 ✅ Réaliser une recherche des bonnes pratiques en développement web  
